@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831281138695",
+    "project_id": "instafeed-91657",
+    "storage_bucket": "instafeed-91657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831281138695:android:b84b6a1384b0d5fd5baea2",
+        "android_client_info": {
+          "package_name": "nc.prog1415"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831281138695-7niqo78sqv74i4j83m9n9kf824nlkfff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBF_oVM4-nq_2DzHBWHfgscLH1m_6yWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831281138695-7niqo78sqv74i4j83m9n9kf824nlkfff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

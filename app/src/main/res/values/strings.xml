@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">instaFeed</string>
+    <string name="List">List</string>
+    <string name="fragrance">Fragrance</string>
+    <string name="FeedBack">Feed Back</string>
+    <string name="mcDonaldsTitile"> Mc Donalds </string>
+    <string name="hello_emma">Wellcome !!</string>
+    <string name="subTittle">This is you personal Feedback app.</string>
+    <string name="todo">TODO</string>
+    <string name="Map">Map</string>
+    <string name="price">Price:</string>
+    <string name="mcDonaldInfo">McDonalds Restaurants of Canada, Limited is the Canadian master franchise of the fast food restaurant chain McDonalds, owned by the American parent McDonalds Corporation.</string>
+    <string name="questionReview">How did we do today ?</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="feedback">FeedBack</string>
+    <string name="view">View</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="Message">Your Thoughts</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="home">home</string>
+    <string name="store_visited">Store visited</string>
+    <string name="feed_back_page">Feed Back Page</string>
+    <string name="dominoTitle"> Dominos</string>
+    <string name="dominoInfo">Dominos Pizza, Inc., branded as Dominos, is an American multinational pizza restaurant chain founded in 1961.</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="map_key" translatable="false">AIzaSyBHvyLoyhXDD9L0wsaaN81UHNopg1jBfPc</string>
+    <string name="title_activity_insta_map">Map</string>
+
+
+</resources>
